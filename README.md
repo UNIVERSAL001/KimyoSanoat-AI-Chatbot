@@ -119,7 +119,7 @@ Below is the simplified workflow scheme used in **n8n** for integration:
 
 A short demo of the chatbot integrated with **n8n** can be seen here:
 
-[▶️ Watch Demo](./demo.mp4)
+[▶️ Watch Demo](/demo.mp4)
 
 ---
 
@@ -191,7 +191,7 @@ Lokal til modeli (LLM) yordamida **GPU (RTX 5090, 32 GB)** asosida tezkor ishlay
 
 Quyida **n8n** orqali ishlash sxemasi ko‘rsatilgan:
 
-![n8n Workflow Scheme](demo.jpg)
+![n8n Workflow Scheme](/demo.jpg)
 
 ---
 
