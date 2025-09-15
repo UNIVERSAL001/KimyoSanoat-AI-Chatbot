@@ -119,7 +119,7 @@ Below is the simplified workflow scheme used in **n8n** for integration:
 
 A short demo of the chatbot integrated with **n8n** can be seen here:
 
-[▶️ Watch Demo](demo.mp4)
+[▶️ Watch Demo](./demo.mp4)
 
 ---
 
