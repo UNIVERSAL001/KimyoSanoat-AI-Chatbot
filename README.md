@@ -119,7 +119,7 @@ Below is the simplified workflow scheme used in **n8n** for integration:
 
 A short demo of the chatbot integrated with **n8n** can be seen here:
 
-<video controls src="demo.gif" title="Title"></video>
+![demo.gif](demo.gif)
 
 ---
 
@@ -199,7 +199,7 @@ Quyida **n8n** orqali ishlash sxemasi ko‘rsatilgan:
 
 Chatbot va **n8n** integratsiyasi bo‘yicha demo videoni quyida ko‘rish mumkin:
 
-<video controls src="demo.gif" title="Title"></video>
+![demo.gif](demo.gif)
 
 ---
 
