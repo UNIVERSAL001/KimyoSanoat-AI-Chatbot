@@ -1,5 +1,8 @@
 # KimyoSanoat AI Chatbot
-
+## Team members:
+### Murodjon Abdinabiyev 
+### Javoxir Mamatayev
+### Jurabek Turayev
 ---
 
 ## 📖 Description (English)
@@ -222,7 +225,3 @@ Chatbot va **n8n** integratsiyasi bo‘yicha demo videoni quyida ko‘rish mumki
   "query": "SELECT COUNT(*) FROM public.debtor_creditor1c WHERE type = 'debitor';"
 }
 ```
-#Team members:
-###Murodjon Abdinabiyev 
-###Javoxir Mamatayev
-###Jurabek Turayev
